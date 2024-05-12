@@ -45,7 +45,7 @@ Each lab session is organized into separate directories within this repository. 
 
 To use the code in this repository, simply clone the repository to your local machine using Git:
 
-git clone https://github.com/your-username/laravel-crud-labs.git
+git clone https://github.com/KarimMohamedDesouki/XML-Labs.git
 
 Then, navigate to the specific lab directory you're interested in and explore the Laravel project files and resources.
 
