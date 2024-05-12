@@ -22,22 +22,22 @@ To get started with Laravel and CRUD operations on your Windows machine, follow 
 
 4. **Install Laravel Installer**: Laravel provides a command-line tool called Laravel Installer, which simplifies the process of creating new Laravel projects. You can install it globally using Composer:
 
-composer global require laravel/installer
+**composer global require laravel/installer**
 
 
 5. **Create a New Laravel Project**: Once Laravel Installer is installed, you can create a new Laravel project using the following command:
 
-laravel new project-name
+**laravel new project-name**
 
 
 6. **Configure Environment**: Configure your database connection settings in the .env file located at the root of your Laravel project. You'll need to set up your database credentials (database name, username, password).
 
 7. **Run Migration**: Laravel's migration feature allows you to manage your database schema using PHP code. Run the following command to run all of your outstanding migrations:
 
-php artisan migrate
+**php artisan migrate**
 
 
-Now you're ready to start working on CRUD operations in Laravel!
+**Now you're ready to start working on CRUD operations in Laravel!**
 
 ## Usage
 
